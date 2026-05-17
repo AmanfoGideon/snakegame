@@ -15,10 +15,10 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const APP_NAME = "Neon Snake";
-const APP_DEFAULT_TITLE = "Neon Snake";
+const APP_NAME = "HEPAGK snake";
+const APP_DEFAULT_TITLE = "HEPAGK snake";
 const APP_DESCRIPTION =
-  "Modern snake arcade game. Play offline, beat your high score, and enjoy neon gameplay on mobile and desktop.";
+  "HEPAGK snake — a modern arcade game. Play offline, beat your high score, and enjoy neon gameplay on mobile and desktop.";
 
 export const metadata: Metadata = {
   applicationName: APP_NAME,

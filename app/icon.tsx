@@ -18,7 +18,7 @@ export default function Icon() {
           color: "#39ff14",
         }}
       >
-        NS
+        HS
       </div>
     ),
     { ...size }

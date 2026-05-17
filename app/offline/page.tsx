@@ -7,7 +7,7 @@ export default function OfflinePage() {
       <WifiOff className="w-16 h-16 text-neon-cyan mb-4" />
       <h1 className="text-2xl font-bold text-white mb-2">You&apos;re offline</h1>
       <p className="text-zinc-400 mb-8 max-w-sm">
-        Neon Snake works offline once installed. Reconnect to sync, or keep
+        HEPAGK snake works offline once installed. Reconnect to sync, or keep
         playing if you&apos;ve already loaded the game.
       </p>
       <Link

@@ -23,10 +23,10 @@ export function GameOverModal({
   onMenu,
 }: GameOverModalProps) {
   const handleShare = async () => {
-    const text = `I scored ${score} points in Neon Snake! Can you beat me?`;
+    const text = `I scored ${score} points in HEPAGK snake! Can you beat me?`;
     if (navigator.share) {
       try {
-        await navigator.share({ title: "Neon Snake", text });
+        await navigator.share({ title: "HEPAGK snake", text });
       } catch {
         // User cancelled
       }

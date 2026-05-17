@@ -38,9 +38,9 @@ export function HomeScreen() {
       <header className="text-center safe-area-top pt-2">
         <h1 className="text-4xl sm:text-6xl font-black tracking-tight">
           <span className="text-neon-green drop-shadow-[0_0_20px_#39ff14]">
-            NEON
+            HEPAGK
           </span>{" "}
-          <span className="text-white">SNAKE</span>
+          <span className="text-white">snake</span>
         </h1>
         <p className="mt-2 text-zinc-400 text-sm sm:text-base">
           Tap to play — built for mobile

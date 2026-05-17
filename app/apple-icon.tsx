@@ -20,7 +20,7 @@ export default function AppleIcon() {
           letterSpacing: -4,
         }}
       >
-        NS
+        HS
       </div>
     ),
     { ...size }

@@ -100,7 +100,7 @@ export function GameScreen() {
     <div className="game-shell safe-area-padding">
       <header className="flex shrink-0 items-center justify-between gap-2 px-2 pt-1 safe-area-top">
         <h1 className="text-base sm:text-lg font-bold text-neon-green truncate">
-          HEPAGK SNAKE
+          HEPAGK snake
         </h1>
         <button
           type="button"

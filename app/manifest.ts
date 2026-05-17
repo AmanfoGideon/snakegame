@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Neon Snake",
-    short_name: "Neon Snake",
+    name: "HEPAGK snake",
+    short_name: "HEPAGK snake",
     description:
-      "A modern snake arcade game. Play offline, save high scores, and enjoy neon-style gameplay on any device.",
+      "HEPAGK snake — play offline, save high scores, and enjoy neon-style arcade gameplay on any device.",
     start_url: "/",
     scope: "/",
     display: "standalone",

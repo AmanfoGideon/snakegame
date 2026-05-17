@@ -56,7 +56,7 @@ export function InstallPrompt() {
       <div className="mx-auto max-w-md pointer-events-auto rounded-2xl border border-neon-green/30 bg-game-surface/95 backdrop-blur-md p-4 shadow-[0_0_30px_rgba(57,255,20,0.15)]">
         <div className="flex items-start gap-3">
           <div className="flex-1 min-w-0">
-            <p className="font-semibold text-white text-sm">Install Neon Snake</p>
+            <p className="font-semibold text-white text-sm">Install HEPAGK snake</p>
             <p className="text-xs text-zinc-400 mt-0.5">
               Add to your home screen for fullscreen play and offline access.
             </p>
